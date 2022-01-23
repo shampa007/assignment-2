@@ -1,3 +1,40 @@
-h1{
-    color: blue;
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+.row img{
+    width: 100%;
+}
+#cart{
+    width: 40px;
+    padding-right: 5px;
+}
+#button-cart{
+    background-color: rgb(33, 240, 50);
+}
+
+.navbar img{
+    width: 450px;
+}
+.card-image img{
+    width: 250px;
+    background-color: whitesmoke;
+    border-radius: 1.5em;
+    object-fit: fill;
+}
+.three-flex{
+    padding-top: 100px;
+    
+}
+.last-image{
+    width: 85%;
+    height: 130px;
+    display:flex ;
+    background-color: whitesmoke;
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+.last-image img{
+    width: 130px;
+    padding-right: 30px;
 }
